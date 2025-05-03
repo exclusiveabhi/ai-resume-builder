@@ -96,6 +96,8 @@ If you would like to contribute to **ResumeCraft**, please follow these steps:
 
 6. **Create a Pull Request**
 
+## Please give a star to the repository if you like it.
+
 ## Contact
 
 For any questions or feedback, please open an issue on the [GitHub repository](https://github.com/exclusiveabhi/ai-resume-builder/issues).
