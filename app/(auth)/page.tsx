@@ -109,7 +109,7 @@ const page = () => {
         <div className="w-full mx-auto text-center max-w-screen-xl p-4 flex max-md:flex-col md:items-center md:justify-between">
           <span className="text-sm text-gray-500 sm:text-center">
             © {new Date().getFullYear()}{" "}
-              </span>
+              
             <span className="hover:text-primary-500 hover:cursor-pointer">
               ResumeCraft
             </span>
